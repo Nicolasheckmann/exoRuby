@@ -1,0 +1,2 @@
+# exoRuby
+some ruby exercises
